@@ -1,7 +1,0 @@
-package biblioteca;
-
-public class Endereco {
-
-	public String rua;
-	public int numero;
-}
